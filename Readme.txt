@@ -5,4 +5,10 @@
 4. git init // Iniciar un repositorio en la carpeta seleccionda 
 5. agregar almenos un archivo al repositorio local
 6. git add nombre_primer_archivo
-7. git commit -m "Initial Commit" //commit inicial 
+7. git commit -m "Initial Commit" //commit inicial
+
+// Crear repositorio github/gitbucket
+1. git add remote origin https://github.com/joseplaza98/Repolocal.git  //url deñ repositorio creado
+2. git push -u origin master
+
+ 
